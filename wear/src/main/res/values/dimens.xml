@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_y_offset">90dp</dimen>
+
+    <dimen name="fit_am_pm_size">25dp</dimen>
+    <dimen name="fit_am_pm_size_round">30dp</dimen>
+    <dimen name="fit_x_offset">35dp</dimen>
+    <dimen name="fit_x_offset_round">45dp</dimen>
+    <dimen name="fit_steps_or_distance_x_offset">20dp</dimen>
+    <dimen name="fit_steps_or_distance_x_offset_round">30dp</dimen>
+    <dimen name="fit_y_offset">70dp</dimen>
+    <dimen name="fit_y_offset_round">80dp</dimen>
+    <dimen name="fit_line_height">35dp</dimen>
+    <dimen name="fit_text_size">30sp</dimen>
+    <dimen name="fit_text_size_round">36sp</dimen>
+    <dimen name="fit__temp_text_size">20sp</dimen>
+    <dimen name="fit_temp_text_size_round">26sp</dimen>
+    <dimen name="fit_steps_or_distance_text_size">16sp</dimen>
+    <dimen name="fit_line_length">20dp</dimen>
+    <dimen name="bitmap_size">56dp</dimen>
+</resources>
